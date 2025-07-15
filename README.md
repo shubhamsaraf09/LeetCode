@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
@@ -27,4 +28,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/shubhamsaraf09/LeetCode/tree/master/0326-power-of-three) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
