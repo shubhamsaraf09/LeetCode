@@ -33,10 +33,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0326-power-of-three](https://github.com/shubhamsaraf09/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
+| [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -63,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/shubhamsaraf09/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamsaraf09/LeetCode/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
