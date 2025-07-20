@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0838-design-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
