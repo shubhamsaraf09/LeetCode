@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/shubhamsaraf09/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamsaraf09/LeetCode/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/shubhamsaraf09/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Matrix
 |  |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/shubhamsaraf09/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamsaraf09/LeetCode/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/shubhamsaraf09/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Union Find
 |  |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhamsaraf09/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/shubhamsaraf09/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -122,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhamsaraf09/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/shubhamsaraf09/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Monotonic Stack
 |  |
