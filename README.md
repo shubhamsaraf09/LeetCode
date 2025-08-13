@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shubhamsaraf09/LeetCode/tree/master/0326-power-of-three) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shubhamsaraf09/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0838-design-linked-list) |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shubhamsaraf09/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shubhamsaraf09/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
