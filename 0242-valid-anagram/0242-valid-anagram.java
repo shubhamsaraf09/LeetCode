@@ -4,25 +4,11 @@ class Solution {
         HashMap<Character,Integer> map2=new HashMap<>();
         if(t.length()!=s.length()) return false;
         for(char ch : s.toCharArray()){
-            if(map.containsKey(ch)){
-                int num=map.get(ch);
-                map.remove(ch);
-                map.put(ch,num+1);
-            }
-            else{
-                map.put(ch,1);
-            }
+           map.put(ch,map.getOrDefault(ch,0)+1);
         }
         
         for(char ch : t.toCharArray()){
-            if(map2.containsKey(ch)){
-                int num=map2.get(ch);
-                map2.remove(ch);
-                map2.put(ch,num+1);
-            }
-            else{
-                map2.put(ch,1);
-            }
+            map2.put(ch,map2.getOrDefault(ch,0)+1);
         }
         // if(map.size()!=map2.size()) return false;
         // for(char ch : t.toCharArray()){
