@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/shubhamsaraf09/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shubhamsaraf09/LeetCode/tree/master/0125-valid-palindrome) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhamsaraf09/LeetCode/tree/master/0217-contains-duplicate) |
