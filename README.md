@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shubhamsaraf09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/shubhamsaraf09/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shubhamsaraf09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/shubhamsaraf09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0169-majority-element) |
