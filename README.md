@@ -37,12 +37,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shubhamsaraf09/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/shubhamsaraf09/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shubhamsaraf09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/shubhamsaraf09/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shubhamsaraf09/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shubhamsaraf09/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shubhamsaraf09/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
