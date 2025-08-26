@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shubhamsaraf09/LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/shubhamsaraf09/LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shubhamsaraf09/LeetCode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhamsaraf09/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/shubhamsaraf09/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shubhamsaraf09/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamsaraf09/LeetCode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/shubhamsaraf09/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/shubhamsaraf09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamsaraf09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/shubhamsaraf09/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhamsaraf09/LeetCode/tree/master/0217-contains-duplicate) |
