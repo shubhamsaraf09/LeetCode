@@ -14,15 +14,21 @@
  * }
  */
 class Solution {
-    List<Integer> list=new ArrayList<>();
+    int count=0;
+    int ans=0;
     public int kthSmallest(TreeNode root, int k) {
+        count=k;
         traversal(root);
-        return list.get(k-1);
+        return ans;
     }
     void traversal(TreeNode root){
         if(root==null) return;
         traversal(root.left);
-        list.add(root.val);
+        count=count-1;
+        if(count==0){
+            ans=root.val;
+            return;
+        }
         traversal(root.right);
     }
 }
