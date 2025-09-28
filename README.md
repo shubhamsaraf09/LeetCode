@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/shubhamsaraf09/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2050-count-good-numbers](https://github.com/shubhamsaraf09/LeetCode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/shubhamsaraf09/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
+| [2050-count-good-numbers](https://github.com/shubhamsaraf09/LeetCode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
