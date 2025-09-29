@@ -1,26 +1,34 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> list=new ArrayList<>();
-        HashSet<List<Integer>> set2=new HashSet<>();
-        for(int i=0;i<nums.length;i++){
-            HashSet<Integer> set=new HashSet<>();
-            for(int j=i+1;j<nums.length;j++){
-                int k=-1*(nums[i]+nums[j]);
-                        if(set.contains(k)){
-                           List<Integer> l=new ArrayList<>();
-                            l.add(nums[i]);
-                            l.add(nums[j]);
-                            l.add(k);
-                            Collections.sort(l);
-                            set2.add(l);
-                        }
-                        set.add(nums[j]);
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length-2;i++){
+            if(i>0 && nums[i]==nums[i-1]) continue;
+            int j=i+1;
+            int k=nums.length-1;
+            while(j<k){
+                int sum=nums[i]+nums[j]+nums[k];
+                if(sum<0){
+                    j++;
+                }else if(sum>0) {
+                    k--;
+                }
+                else{
+                    List<Integer> l=new ArrayList<>();
+                   
+                    l.add(nums[i]);
+                    l.add(nums[j]);
+                    l.add(nums[k]);  
+                    list.add(l);     
+                    j++;
+                    k--;             
+                while(j<k && nums[j]==nums[j-1]) j++;
+                while(j<k && (nums[k]==nums[k+1])) k--;
+                }
+                
                 
             }
         }
-        
-            list.addAll(set2);
-        
         return list;
     }
 }
