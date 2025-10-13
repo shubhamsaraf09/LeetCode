@@ -1,7 +1,7 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-     HashMap<Integer,Integer> map=new HashMap<>(255);
-     for(int i=0;i<256;i++){
+     HashMap<Integer,Integer> map=new HashMap<>(128);
+     for(int i=0;i<129;i++){
         map.put(i,-1);
      }   
     int n=s.length();
