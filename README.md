@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamsaraf09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamsaraf09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -277,10 +279,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shubhamsaraf09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/shubhamsaraf09/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0169-majority-element) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
