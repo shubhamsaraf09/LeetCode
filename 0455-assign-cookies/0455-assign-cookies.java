@@ -6,9 +6,9 @@ class Solution {
         while(l<s.length && r<g.length){
             if(s[l]>=g[r]){
                 r++;
-                l++;
+               
             }
-            else l++;
+            l++;
         }
         return r;
     }
