@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamsaraf09/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/shubhamsaraf09/LeetCode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamsaraf09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/shubhamsaraf09/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/shubhamsaraf09/LeetCode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shubhamsaraf09/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/shubhamsaraf09/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhamsaraf09/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/shubhamsaraf09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubhamsaraf09/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shubhamsaraf09/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/shubhamsaraf09/LeetCode/tree/master/0890-lemonade-change) |
 ## Sorting
