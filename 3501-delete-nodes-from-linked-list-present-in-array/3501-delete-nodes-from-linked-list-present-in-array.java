@@ -14,18 +14,15 @@ class Solution {
         for(int n : nums){
             set.add(n);
         }
-        List<Integer> list=new ArrayList<>();
-        while(head!=null){
-            if(!set.contains(head.val))
-            list.add(head.val);
-            head=head.next;
-        }
         ListNode l=new ListNode(0);
         ListNode ans=l;
-        
-        for(int i=0;i<list.size();i++){
-            l.next=new ListNode(list.get(i));
+        List<Integer> list=new ArrayList<>();
+        while(head!=null){
+            if(!set.contains(head.val)){
+                l.next=new ListNode(head.val);
             l=l.next;
+            }   
+            head=head.next;
         }
         return ans.next;
     }
