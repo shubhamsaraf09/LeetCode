@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shubhamsaraf09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhamsaraf09/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhamsaraf09/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/shubhamsaraf09/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shubhamsaraf09/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamsaraf09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhamsaraf09/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamsaraf09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhamsaraf09/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/shubhamsaraf09/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Backtracking
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/shubhamsaraf09/LeetCode/tree/master/0890-lemonade-change) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhamsaraf09/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sorting
 |  |
 | ------- |
