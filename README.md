@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/shubhamsaraf09/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/shubhamsaraf09/LeetCode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsaraf09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/shubhamsaraf09/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shubhamsaraf09/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/shubhamsaraf09/LeetCode/tree/master/0739-daily-temperatures) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamsaraf09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubhamsaraf09/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/shubhamsaraf09/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shubhamsaraf09/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamsaraf09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubhamsaraf09/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/shubhamsaraf09/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shubhamsaraf09/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shubhamsaraf09/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -340,4 +343,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/shubhamsaraf09/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shubhamsaraf09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/shubhamsaraf09/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shubhamsaraf09/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
