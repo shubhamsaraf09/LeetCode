@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shubhamsaraf09/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhamsaraf09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhamsaraf09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
 |  |
 | ------- |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shubhamsaraf09/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/shubhamsaraf09/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
 | ------- |
@@ -347,4 +350,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shubhamsaraf09/LeetCode/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
