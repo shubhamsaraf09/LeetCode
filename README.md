@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamsaraf09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/shubhamsaraf09/LeetCode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/shubhamsaraf09/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shubhamsaraf09/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shubhamsaraf09/LeetCode/tree/master/0217-contains-duplicate) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/shubhamsaraf09/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamsaraf09/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shubhamsaraf09/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shubhamsaraf09/LeetCode/tree/master/0561-array-partition) |
