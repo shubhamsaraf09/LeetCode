@@ -1,7 +1,7 @@
 class Solution {
     public String addStrings(String num1, String num2) {
         int carry=0;
-        String ans="";
+        StringBuilder ans=new StringBuilder();
         int i=num1.length()-1,j=num2.length()-1;
         while(i>=0 && j>=0){
             
@@ -13,7 +13,7 @@ class Solution {
                 carry=1;
             }
             else carry=0;
-            ans=ans+a;
+            ans=ans.append(a);
             i--;
             j--;
         }
@@ -25,7 +25,7 @@ class Solution {
                 carry=1;
             }
             else carry=0;
-            ans=ans+a;
+            ans=ans.append(a);
             i--;
         }
 
@@ -36,11 +36,11 @@ class Solution {
                 carry=1;
             }
             else carry=0;
-            ans=ans+a;
+            ans=ans.append(a);
             j--;
         }
         if(carry==1){
-            ans=ans+carry;
+            ans=ans.append(carry);;
         }
         String reversed = new StringBuilder(ans).reverse().toString();
         return reversed;
