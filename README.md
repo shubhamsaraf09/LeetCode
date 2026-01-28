@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/shubhamsaraf09/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shubhamsaraf09/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/1025-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubhamsaraf09/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/shubhamsaraf09/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/shubhamsaraf09/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamsaraf09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -386,4 +388,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/1025-divisor-game) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
