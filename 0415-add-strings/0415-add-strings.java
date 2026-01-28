@@ -1,47 +1,17 @@
 class Solution {
     public String addStrings(String num1, String num2) {
+        int i=num1.length()-1;
+        int j=num2.length()-1;
         int carry=0;
         StringBuilder ans=new StringBuilder();
-        int i=num1.length()-1,j=num2.length()-1;
-        while(i>=0 && j>=0){
-            
-            int sum=0;
-            int a=(num1.charAt(i)-'0')+(num2.charAt(j)-'0')+carry;
-            
-            if(a>=10){
-                a=a%10;
-                carry=1;
-            }
-            else carry=0;
-            ans=ans.append(a);
-            i--;
-            j--;
+        while(i>=0 || j>=0 || carry!=0){
+            int sum=carry;
+            if(i>=0) sum+=num1.charAt(i--)-'0';
+            if(j>=0) sum+=num2.charAt(j--)-'0';
+            ans.append(sum%10);
+            carry=sum/10;
         }
 
-        while(i>=0){
-            int a=carry+(num1.charAt(i)-'0');
-            if(a>=10){
-                a=a%10;
-                carry=1;
-            }
-            else carry=0;
-            ans=ans.append(a);
-            i--;
-        }
-
-        while(j>=0){
-            int a=carry+(num2.charAt(j)-'0');
-            if(a>=10){
-                a=a%10;
-                carry=1;
-            }
-            else carry=0;
-            ans=ans.append(a);
-            j--;
-        }
-        if(carry==1){
-            ans=ans.append(carry);;
-        }
         String reversed = new StringBuilder(ans).reverse().toString();
         return reversed;
     }
