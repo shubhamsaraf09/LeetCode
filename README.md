@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/shubhamsaraf09/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/shubhamsaraf09/LeetCode/tree/master/0740-delete-and-earn) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shubhamsaraf09/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/shubhamsaraf09/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/shubhamsaraf09/LeetCode/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shubhamsaraf09/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamsaraf09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shubhamsaraf09/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamsaraf09/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/shubhamsaraf09/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
