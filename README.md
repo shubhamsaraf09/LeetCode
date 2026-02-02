@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shubhamsaraf09/LeetCode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/shubhamsaraf09/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shubhamsaraf09/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shubhamsaraf09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamsaraf09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shubhamsaraf09/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamsaraf09/LeetCode/tree/master/0200-number-of-islands) |
