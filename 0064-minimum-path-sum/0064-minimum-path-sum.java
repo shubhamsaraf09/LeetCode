@@ -8,7 +8,7 @@ class Solution {
     }
     int grid(int[][] dp,int[][] grid, int m,int n){
         if(m==0 && n==0) return grid[m][n];
-        if(m<0 || n<0) return 400;
+        if(m<0 || n<0) return 40000;
         if(dp[m][n]!=-1) return dp[m][n];
 
         int left=grid[m][n]+grid(dp,grid,m,n-1);
