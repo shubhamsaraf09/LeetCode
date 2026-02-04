@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhamsaraf09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3637-trionic-array-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3637-trionic-array-i) |
+| [3828-final-element-after-subarray-deletions](https://github.com/shubhamsaraf09/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/shubhamsaraf09/LeetCode/tree/master/2050-count-good-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhamsaraf09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3828-final-element-after-subarray-deletions](https://github.com/shubhamsaraf09/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Recursion
 |  |
 | ------- |
@@ -403,10 +405,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/shubhamsaraf09/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/shubhamsaraf09/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Simulation
 |  |
 | ------- |
