@@ -1,10 +1,7 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[][] dp=new int[coins.length][amount+1];
-        for(int[] i : dp){
-            Arrays.fill(i,-1);
-        }
-        int ans=f(coins.length-1,amount,coins,dp);
+        
+        int ans=f(coins.length-1,amount,coins);
         return ans>=1000000000 ? -1 : ans;
     }
     // int f(int n,int amount,int[] arr,int[][] dp){
@@ -18,20 +15,24 @@ class Solution {
     //     if(arr[n]<=amount) take=1+f(n,amount-arr[n],arr,dp);
     //     return dp[n][amount]=Math.min(take,nottake);
     // }
-    int f(int n,int amount,int[] arr,int[][] dp){
+    int f(int n,int amount,int[] arr){
+        int[] prev=new int[amount+1];
+        
         for(int i=0;i<=amount;i++){
-            if(i%arr[0]==0) dp[0][i]=i/arr[0];
-            else dp[0][i]=1000000000;
+            if(i%arr[0]==0) prev[i]=i/arr[0];
+            else prev[i]=1000000000;
         }
             
         for(int i=1;i<arr.length;i++){
+            int[] cur=new int[amount+1];
             for(int l=0;l<=amount;l++){
-                int nottake=dp[i-1][l];
+                int nottake=prev[l];
                 int take =Integer.MAX_VALUE;
-                if(arr[i]<=l) take=1+dp[i][l-arr[i]];
-                 dp[i][l]=Math.min(take,nottake);
+                if(arr[i]<=l) take=1+cur[l-arr[i]];
+                 cur[l]=Math.min(take,nottake);
             }
+            prev=cur;
         }
-        return dp[n][amount];
+        return prev[amount];
     }
 }
