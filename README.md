@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shubhamsaraf09/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/shubhamsaraf09/LeetCode/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamsaraf09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/shubhamsaraf09/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/shubhamsaraf09/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubhamsaraf09/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
