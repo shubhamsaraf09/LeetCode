@@ -14,7 +14,7 @@ class Solution {
             profit=Math.max(-prices[ind]+f(ind+1,prices,0,dp),0+f(ind+1,prices,1,dp));
         }
         else{
-            profit=Math.max(prices[ind]+f(ind+1,prices,1,dp),0+f(ind+1,prices,0,dp));
+            profit=Math.max(prices[ind]+f(ind+1,prices,1,dp),f(ind+1,prices,0,dp));
         }
         return dp[ind][buy]=profit;
     }
