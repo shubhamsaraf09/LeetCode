@@ -23,34 +23,62 @@ class Solution {
 //     return dp[ind][buy][cap]=profit;
 // }
 
-        int f(int[] prices){
-        // if(ind==prices.length) return 0;
-        // if(cap<0) return 0;
+//         int f(int[] prices){
+//         // if(ind==prices.length) return 0;
+//         // if(cap<0) return 0;
+//         int n=prices.length;
+//         int[][][] dp=new int[n+1][2][3];
+//         for(int ind=0;ind<=n;ind++){
+//             dp[ind][0][0]=0;
+//             dp[ind][1][0]=0;
+//         }
+//         for(int i=0;i<=1;i++){
+//             for(int j=0;j<=2;j++){
+//                 dp[n][i][j]=0;
+//             }
+//         }
+//         for(int ind=n-1;ind>=0;ind--){
+//             for(int buy=0;buy<2;buy++){
+//                 for(int cap=1;cap<=2;cap++){
+//                     int profit=0;
+//                     if(buy==1){
+//                         profit=Math.max(-prices[ind]+dp[ind+1][0][cap],dp[ind+1][1][cap]);
+//                     }
+//                     else profit=Math.max(prices[ind]+dp[ind+1][1][cap-1],dp[ind+1][0][cap]);
+//                  dp[ind][buy][cap]=profit;
+//                 }
+//             }
+//         }
+      
+//     return dp[0][1][2];
+// }
+
+ int f(int[] prices){
         int n=prices.length;
-        int[][][] dp=new int[n+1][2][3];
-        for(int ind=0;ind<=n;ind++){
-            dp[ind][0][0]=0;
-            dp[ind][1][0]=0;
-        }
+        int[][] ahead=new int[2][3];
+        
         for(int i=0;i<=1;i++){
             for(int j=0;j<=2;j++){
-                dp[n][i][j]=0;
+                ahead[i][j]=0;
             }
         }
         for(int ind=n-1;ind>=0;ind--){
+            int[][] curr=new int[2][3];
             for(int buy=0;buy<2;buy++){
                 for(int cap=1;cap<=2;cap++){
                     int profit=0;
                     if(buy==1){
-                        profit=Math.max(-prices[ind]+dp[ind+1][0][cap],dp[ind+1][1][cap]);
+                        profit=Math.max(-prices[ind]+ahead[0][cap],ahead[1][cap]);
                     }
-                    else profit=Math.max(prices[ind]+dp[ind+1][1][cap-1],dp[ind+1][0][cap]);
-                 dp[ind][buy][cap]=profit;
+                    else profit=Math.max(prices[ind]+ahead[1][cap-1],ahead[0][cap]);
+                 curr[buy][cap]=profit;
                 }
             }
+            ahead=curr;
         }
       
-    return dp[0][1][2];
+    return ahead[1][2];
 }
+
 
 }
