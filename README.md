@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhamsaraf09/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/shubhamsaraf09/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1818-minimum-absolute-sum-difference](https://github.com/shubhamsaraf09/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shubhamsaraf09/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/3379-transformed-array) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamsaraf09/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1818-minimum-absolute-sum-difference](https://github.com/shubhamsaraf09/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/shubhamsaraf09/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## String Matching
 |  |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/shubhamsaraf09/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shubhamsaraf09/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1818-minimum-absolute-sum-difference](https://github.com/shubhamsaraf09/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shubhamsaraf09/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/shubhamsaraf09/LeetCode/tree/master/0456-132-pattern) |
+| [1818-minimum-absolute-sum-difference](https://github.com/shubhamsaraf09/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
