@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/shubhamsaraf09/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shubhamsaraf09/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shubhamsaraf09/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/1025-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubhamsaraf09/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shubhamsaraf09/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2050-count-good-numbers](https://github.com/shubhamsaraf09/LeetCode/tree/master/2050-count-good-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhamsaraf09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3828-final-element-after-subarray-deletions](https://github.com/shubhamsaraf09/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0415-add-strings) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shubhamsaraf09/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/3379-transformed-array) |
 ## Enumeration
 |  |
