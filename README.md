@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/shubhamsaraf09/LeetCode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shubhamsaraf09/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0832-flipping-an-image](https://github.com/shubhamsaraf09/LeetCode/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/shubhamsaraf09/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/shubhamsaraf09/LeetCode/tree/master/0890-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/shubhamsaraf09/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shubhamsaraf09/LeetCode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shubhamsaraf09/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/shubhamsaraf09/LeetCode/tree/master/0832-flipping-an-image) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shubhamsaraf09/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Math
 |  |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shubhamsaraf09/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shubhamsaraf09/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/shubhamsaraf09/LeetCode/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/shubhamsaraf09/LeetCode/tree/master/0832-flipping-an-image) |
 | [0931-minimum-falling-path-sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Breadth-First Search
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/shubhamsaraf09/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shubhamsaraf09/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamsaraf09/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/shubhamsaraf09/LeetCode/tree/master/0832-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1768-merge-strings-alternately](https://github.com/shubhamsaraf09/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -509,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0415-add-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/shubhamsaraf09/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/shubhamsaraf09/LeetCode/tree/master/0832-flipping-an-image) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shubhamsaraf09/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/3379-transformed-array) |
 ## Enumeration
