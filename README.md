@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamsaraf09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0482-license-key-formatting](https://github.com/shubhamsaraf09/LeetCode/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/shubhamsaraf09/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/shubhamsaraf09/LeetCode/tree/master/0657-robot-return-to-origin) |
