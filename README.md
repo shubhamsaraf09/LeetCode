@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shubhamsaraf09/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/shubhamsaraf09/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1818-minimum-absolute-sum-difference](https://github.com/shubhamsaraf09/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/shubhamsaraf09/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shubhamsaraf09/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/3379-transformed-array) |
