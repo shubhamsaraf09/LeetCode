@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/shubhamsaraf09/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/shubhamsaraf09/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2405-optimal-partition-of-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shubhamsaraf09/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2405-optimal-partition-of-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhamsaraf09/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/shubhamsaraf09/LeetCode/tree/master/0890-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhamsaraf09/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2405-optimal-partition-of-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/2405-optimal-partition-of-string) |
 ## Sorting
 |  |
 | ------- |
