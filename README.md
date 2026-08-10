@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/shubhamsaraf09/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shubhamsaraf09/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/shubhamsaraf09/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shubhamsaraf09/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/shubhamsaraf09/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/shubhamsaraf09/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/shubhamsaraf09/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shubhamsaraf09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/shubhamsaraf09/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamsaraf09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/shubhamsaraf09/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/shubhamsaraf09/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -469,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/shubhamsaraf09/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/shubhamsaraf09/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0169-majority-element) |
