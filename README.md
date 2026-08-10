@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shubhamsaraf09/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shubhamsaraf09/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shubhamsaraf09/LeetCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/shubhamsaraf09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/shubhamsaraf09/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shubhamsaraf09/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamsaraf09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shubhamsaraf09/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/shubhamsaraf09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/shubhamsaraf09/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/shubhamsaraf09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shubhamsaraf09/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shubhamsaraf09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamsaraf09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -478,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhamsaraf09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shubhamsaraf09/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shubhamsaraf09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shubhamsaraf09/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamsaraf09/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -517,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shubhamsaraf09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
@@ -534,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhamsaraf09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shubhamsaraf09/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shubhamsaraf09/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Memoization
@@ -579,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shubhamsaraf09/LeetCode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/shubhamsaraf09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -587,4 +594,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shubhamsaraf09/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhamsaraf09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
