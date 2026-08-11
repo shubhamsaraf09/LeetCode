@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/shubhamsaraf09/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shubhamsaraf09/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/0055-jump-game) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shubhamsaraf09/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/shubhamsaraf09/LeetCode/tree/master/0079-word-search) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhamsaraf09/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shubhamsaraf09/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhamsaraf09/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/shubhamsaraf09/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shubhamsaraf09/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamsaraf09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/shubhamsaraf09/LeetCode/tree/master/0127-word-ladder) |
