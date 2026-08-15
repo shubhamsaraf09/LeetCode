@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/shubhamsaraf09/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/shubhamsaraf09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shubhamsaraf09/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/0055-jump-game) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhamsaraf09/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/shubhamsaraf09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shubhamsaraf09/LeetCode/tree/master/0062-unique-paths) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhamsaraf09/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shubhamsaraf09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhamsaraf09/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhamsaraf09/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -333,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/shubhamsaraf09/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shubhamsaraf09/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamsaraf09/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/shubhamsaraf09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -428,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhamsaraf09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamsaraf09/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/shubhamsaraf09/LeetCode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shubhamsaraf09/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
