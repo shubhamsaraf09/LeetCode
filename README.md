@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-path-with-maximum-gold](https://github.com/shubhamsaraf09/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubhamsaraf09/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1463-cherry-pickup-ii](https://github.com/shubhamsaraf09/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shubhamsaraf09/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhamsaraf09/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shubhamsaraf09/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/shubhamsaraf09/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/shubhamsaraf09/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/shubhamsaraf09/LeetCode/tree/master/0832-flipping-an-image) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/shubhamsaraf09/LeetCode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shubhamsaraf09/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/shubhamsaraf09/LeetCode/tree/master/3379-transformed-array) |
 ## Enumeration
