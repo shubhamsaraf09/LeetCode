@@ -5,7 +5,10 @@ class Solution {
         for(int i=0;i<arr.length;i++){
             if(num>arr[i]) c++;
             if(c>=k) return num;
-            if(num<arr[i]) num=arr[i];
+            if(num<arr[i]) {
+                num=arr[i];
+                c=1;
+            }
         }
         return num;
     }
