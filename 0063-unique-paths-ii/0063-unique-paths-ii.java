@@ -1,42 +1,34 @@
 class Solution {
-    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        
-        int m=obstacleGrid.length; 
-        int n=obstacleGrid[0].length;
-        int[][] dp=new int[m][n];
-        // for(int[] row : dp){
-        //     Arrays.fill(row,-1);
-        // }
-        return grid(obstacleGrid,dp,m-1,n-1);
-    }
-    int grid(int[][] obstacleGrid,int[][] dp,int m,int n){
-        // if(m<0 || n<0) return 0;
-        // if(obstacleGrid[m][n]==1) return 0;
-        // if(m==0 && n==0) return 1;
-        
-        // if(dp[m][n]!=-1) return dp[m][n];
-        
-        // int left=grid(obstacleGrid,dp,m,n-1);
-        // int up=grid(obstacleGrid,dp,m-1,n);
-        // return dp[m][n]=left+up;
-
-        for(int i=0;i<=m;i++){
-            for(int j=0;j<=n;j++){
-                int left=0,up=0;
-                if (obstacleGrid[i][j] == 1) {
-                    dp[i][j] = 0;
+    public int uniquePathsWithObstacles(int[][] arr) {
+        int[][] dp=new int[arr.length][arr[0].length];
+        for(int i=0;i<arr.length;i++){
+            for(int j=0;j<arr[i].length;j++){
+                 if(arr[i][j]==1) continue;
+                if(i==0 && j==0) {
+                    dp[i][j]=1;
+                    continue;
                 }
+               
+                int up=0;
+                if(i>0) up=dp[i-1][j];
+                int left=0;
+                if(j>0) left=dp[i][j-1];
 
-                else if(i==0 && j==0) dp[i][j]=1;
-                else{
-                    
-                    if(j>0) left=dp[i][j-1];
-                    if(i>0) up=dp[i-1][j];
-                    dp[i][j]=up+left;
-                }
+                dp[i][j]=up+left;
             }
         }
 
-        return dp[m][n];
+        return dp[arr.length-1][arr[0].length-1];
+        
     }
+    // int f(int i,int j,int[][] grid){
+    //     if(i<0 || j < 0 || grid[i][j]==1) return 0;
+    //     if(i==0 && j==0) return 1;
+        
+
+    //     int up=f(i-1,j,grid);
+    //     int left=f(i,j-1,grid);
+
+    //     return up+left;
+    // }    
 }
